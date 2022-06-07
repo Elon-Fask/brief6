@@ -13,3 +13,12 @@ listing products(car) under one category
 
 So i mentions before that i need to create and/or manage two tables in a database,
 here's the [dataset](https://github.com/Elon-Fask/brief6/blob/main/dataset.sql)
+
+
+## Preview
+####  - we run the file main.java 
+![main.java](/img/Screenshot%20from%202022-06-07%2011-51-59.png)
+#### - we choose an operation 
+![](/img/Screenshot%20from%202022-06-07%2011-52-14.png)
+
+#### - then we are free to add create see and or delete products(car) or Category
